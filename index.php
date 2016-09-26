@@ -16,7 +16,7 @@
  		 $database=mysql_select_db('my_database_test');
  		 mysql_set_charset('utf8');
  		//Подкючение к БД
- 		 
+ 		 	
  		/*$result=mysql_query('SELECT * FROM user 
  							  ORDER BY date DESK
  							  ');*/
@@ -38,7 +38,8 @@
  				<hr/>
  			<?php
  		}
- 		//Вывод содержимого БД
+ 		//Вывод содержимого Базы данных
  			?>
+
   </body>
  </html> 
