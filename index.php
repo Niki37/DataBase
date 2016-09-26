@@ -5,7 +5,7 @@
    <title>Database</title>
   </head>
   <body>
-  
+  	
   
  	 <?php 
  	 	include "form.php";
